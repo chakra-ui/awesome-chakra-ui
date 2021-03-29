@@ -28,6 +28,8 @@ A collection of Chakra UI-related awesomeness
 
 ## Articles
 
+- [How ChakraUI complements your existing web development skills](https://dominik.sumer.dev/blog/chakra-complements-webdevs)
+
 ## Guides
 
 ## Talks
