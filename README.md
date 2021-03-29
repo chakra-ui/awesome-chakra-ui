@@ -24,6 +24,7 @@ A collection of Chakra UI-related awesomeness
 ## Tools
 
 - [Themera](https://themera.vercel.app/): Create Chakra UI color schemes in seconds ⚡️
+- [OpenChakra](https://openchakra.app/): Full-featured visual editor and code generator for React using Chakra UI
 
 ## Articles
 
