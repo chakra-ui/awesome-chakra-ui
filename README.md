@@ -33,6 +33,7 @@ A collection of Chakra UI-related awesomeness
 ## Guides
 
 ## Talks
+- [The Future of Chakra UI (with Segun Adebayo & Lee Robinson)](https://www.youtube.com/watch?v=I5xEc9t-HZg&t=1182s)
 
 ## Contribute
 
