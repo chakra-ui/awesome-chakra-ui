@@ -23,6 +23,7 @@ A collection of Chakra UI-related awesomeness
 
 ## Tools
 
+- [Chakra Play](https://chakra-play.tk/): __FAST__ REPL for Chakra UI
 - [Themera](https://themera.vercel.app/): Create Chakra UI color schemes in seconds ⚡️
 - [OpenChakra](https://openchakra.app/): Full-featured visual editor and code generator for React using Chakra UI
 
