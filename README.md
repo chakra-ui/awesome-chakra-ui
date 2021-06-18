@@ -8,25 +8,23 @@ A collection of Chakra UI-related awesomeness
 
 ## Contents
 
-- [Contents](#contents)
-- [Projects](#-projects)
-- [Websites](#%EF%B8%8F-websites)
-- [Libraries](#%EF%B8%8F-libraries)
-- [Tools](#%EF%B8%8F--tools)
-- [Articles](#-articles)
-- [Videos](#%EF%B8%8F-videos)
-- [Contribute](#contribute)
+- [Awesome Chakra UI](#awesome-chakra-ui)
+  - [Contents](#contents)
+  - [Projects](#%F0%9F%94%A5-projects)
+  - [Websites](#%EF%B8%8F-websites)
+  - [Libraries](#%EF%B8%8F-libraries)
+  - [Tools](#%EF%B8%8F-tools)
+  - [Articles](#%F0%9F%93%9D-articles)
+  - [Videos](#%EF%B8%8F-videos)
+  - [Guides](#guides)
+  - [Talks](#talks)
+  - [Contribute](#contribute)
 
 ## 🔥 Projects
 
 - [Chakra UI Pro](https://pro.chakra-ui.com): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
 - [Chakra Templates](https://chakra-templates.dev): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.tech/): A set of accessible and reusable components that are commonly used in web applications.
-- [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
-- [Next-mdx-boilerplate](https://github.com/whoisryosuke/next-mdx-boilerplate): NextJS + MDX starter with examples (Linting, Styled Components, Chakra UI).
-- [Start-ui](https://github.com/BearStudio/start-ui): 🚧 WIP --- Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz.
-- [Rock-ui](https://github.com/rockcontent/rock-ui): Rock Content Design System component kit in React. Based on Chakra-UI.
-- [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
 - [OnlySetups](https://github.com/wobsoriano/onlysetups): OnlyFans, but for pictures of desk setups
 - [TwitterFOMO.dev](https://github.com/tomdohnal/twitter-fomo): Best WebDev Tweets
 - [Dokz](https://github.com/remorses/dokz): Effortless documentation with Next.js and MDX.
@@ -41,7 +39,19 @@ A collection of Chakra UI-related awesomeness
 - [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
 
 ## 📚️ Libraries
+- [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
+- [Next-mdx-boilerplate](https://github.com/whoisryosuke/next-mdx-boilerplate): NextJS + MDX starter with examples (Linting, Styled Components, Chakra UI).
+- [Start-ui](https://github.com/BearStudio/start-ui): 🚧 WIP --- Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz.
+- [Rock-ui](https://github.com/rockcontent/rock-ui): Rock Content Design System component kit in React. Based out on Chakra-UI.
+- [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
 
+## 🛠️ Tools
+
+- [Chakra Figma UI Kit](https://www.figma.com/community/file/971408767069651759): Chakra UI's official Figma components library.
+- [Chakra Play](https://chakra-play.tk/): An advanced online playground for Chakra UI. 
+- [Themera](https://themera.vercel.app/): Create Chakra UI color schemes in seconds ⚡️.
+- [OpenChakra](https://openchakra.app/): Full-featured visual editor and code generator for React using Chakra UI.
+- [Nextchakra-starter](https://github.com/sozonome/nextchakra-starter): template to initialize PWA ready Next.js app with Chakra UI & Typescript setup ✨.
 - [Frontity-chakra-ui-theme](https://github.com/chakra-ui/frontity-chakra-ui-theme): A Frontity theme built with Chakra UI.
 - [Chakra-ui-autocomplete](https://github.com/koolamusic/chakra-ui-autocomplete): An utility autocomplete UI library to use with Chakra UI.
 - [Chakra-ui-navbar](https://github.com/dimitrisraptis96/chakra-ui-navbar): Fully-responsive NavBar component for landing pages built with Chakra-UI. 
@@ -50,14 +60,6 @@ A collection of Chakra UI-related awesomeness
 - [Chakra-next](https://github.com/47ng/chakra-next): Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui-steps](https://github.com/jeanverster/chakra-ui-steps): Steps component designed to work seamlessly with Chakra UI.
 - [Formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui): Your Chakra-UI bindings for Formik
-
-## 🛠️  Tools
-
-- [Chakra Figma UI Kit](https://www.figma.com/community/file/971408767069651759): Chakra UI's official Figma components library.
-- [Chakra Play](https://chakra-play.tk/): An advanced online playground for Chakra UI. 
-- [Themera](https://themera.vercel.app/): Create Chakra UI color schemes in seconds ⚡️.
-- [OpenChakra](https://openchakra.app/): Full-featured visual editor and code generator for React using Chakra UI.
-- [Nextchakra-starter](https://github.com/sozonome/nextchakra-starter): template to initialize PWA ready Next.js app with Chakra UI & Typescript setup ✨.
 
 ## 📝 Articles
 
@@ -77,6 +79,10 @@ A collection of Chakra UI-related awesomeness
 - [Customise your theme and components](https://youtube.com/watch?v=1J8dUyeUWO4&feature=share)
 - [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0&feature=share)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
+
+## Guides
+
+## Talks
 
 ## Contribute
 
