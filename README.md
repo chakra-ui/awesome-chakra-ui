@@ -11,6 +11,7 @@ A collection of Chakra UI-related awesomeness
 - [Awesome Chakra UI](#awesome-chakra-ui)
   - [Contents](#contents)
   - [Projects](#projects)
+  - [Websites](#websites)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Guides](#guides)
@@ -22,15 +23,17 @@ A collection of Chakra UI-related awesomeness
 - [Chakra Templates](https://chakra-templates.dev): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.tech/): A set of accessible and reusable components that are commonly used in web applications.
 - [Formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui): Your Chakra-UI bindings for Formik
-- [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨.
 - [Next-mdx-boilerplate](https://github.com/whoisryosuke/next-mdx-boilerplate): NextJS + MDX starter with examples (Linting, Styled Components, Chakra UI).
-- [Nirmalya Ghosh's Site](https://github.com/ghoshnirmalya/nirmalyaghosh.com): Personal portfolio built using Next.js, Chakra UI, SEO, MDX and TypeScript.
-- [Laura Beatris's Site](https://github.com/LauraBeatris/laurabeatris.com):
-  My portfolio built with Next.js, Chakra UI and GraphCMS.
-- [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
 - [Start-ui](https://github.com/BearStudio/start-ui): 🚧 WIP --- Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz.
 - [Rock-ui](https://github.com/rockcontent/rock-ui): Rock Content Design System component kit in React. Based out on Chakra-UI.
 - [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
+
+## Personal Websites
+- [Rich Haines's Website](https://richardhaines.dev/)
+- [Nirmalya Ghosh's Site](https://github.com/ghoshnirmalya/nirmalyaghosh.com): Personal portfolio built using Next.js, Chakra UI, SEO, MDX and TypeScript.
+- [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨.
+- [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
+- [Laura Beatris's Site](https://github.com/LauraBeatris/laurabeatris.com): My portfolio built with Next.js, Chakra UI and GraphCMS.
 
 ## Tools
 
