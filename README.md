@@ -10,7 +10,7 @@ A collection of Chakra UI-related awesomeness
 
 - [Awesome Chakra UI](#awesome-chakra-ui)
   - [Contents](#contents)
-  - [Projects](#%F0%9F%94%A5-projects)
+  - [Projects](#-projects)
   - [Websites](#%EF%B8%8F-websites)
   - [Libraries](#%EF%B8%8F-libraries)
   - [Tools](#%EF%B8%8F-tools)
