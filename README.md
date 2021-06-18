@@ -55,7 +55,6 @@ A collection of Chakra UI-related awesomeness
 - [Frontity-chakra-ui-theme](https://github.com/chakra-ui/frontity-chakra-ui-theme): A Frontity theme built with Chakra UI.
 - [Chakra-ui-autocomplete](https://github.com/koolamusic/chakra-ui-autocomplete): An utility autocomplete UI library to use with Chakra UI.
 - [Chakra-ui-navbar](https://github.com/dimitrisraptis96/chakra-ui-navbar): Fully-responsive NavBar component for landing pages built with Chakra-UI. 
-- [Chakra-templates](https://github.com/hauptrolle/chakra-templates): A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 - [Chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer): react-markdown renderer for people who using Chakra-UI's CSSReset component.
 - [Chakra-next](https://github.com/47ng/chakra-next): Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui-steps](https://github.com/jeanverster/chakra-ui-steps): Steps component designed to work seamlessly with Chakra UI.
