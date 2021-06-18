@@ -28,7 +28,7 @@ A collection of Chakra UI-related awesomeness
 - [Rock-ui](https://github.com/rockcontent/rock-ui): Rock Content Design System component kit in React. Based out on Chakra-UI.
 - [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
 
-## Personal Websites
+## Websites
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Nirmalya Ghosh's Site](https://github.com/ghoshnirmalya/nirmalyaghosh.com): Personal portfolio built using Next.js, Chakra UI, SEO, MDX and TypeScript.
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨.
