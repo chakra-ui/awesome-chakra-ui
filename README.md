@@ -47,10 +47,12 @@ A collection of Chakra UI-related awesomeness
 ## Articles
 
 - [Landing-page-with-chakra-ui-part-1](https://github.com/dimitrisraptis96/landing-page-with-chakra-ui-part-1): The full code about the tutorial "Build a landing page with Chakra UI"
+- [How ChakraUI complements your existing web development skills](https://dominik.sumer.dev/blog/chakra-complements-webdevs)
 
 ## Guides
 
 ## Talks
+- [The Future of Chakra UI (with Segun Adebayo & Lee Robinson)](https://www.youtube.com/watch?v=I5xEc9t-HZg&t=1182s)
 
 ## Contribute
 
