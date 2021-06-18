@@ -14,7 +14,7 @@ A collection of Chakra UI-related awesomeness
   - [Websites](#%EF%B8%8F-websites)
   - [Libraries](#%EF%B8%8F-libraries)
   - [Tools](#%EF%B8%8F-tools)
-  - [Articles](#%F0%9F%93%9D-articles)
+  - [Articles](#-articles)
   - [Videos](#%EF%B8%8F-videos)
   - [Guides](#guides)
   - [Talks](#talks)
