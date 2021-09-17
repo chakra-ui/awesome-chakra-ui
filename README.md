@@ -61,6 +61,7 @@ A collection of Chakra UI-related awesomeness
 - [Chakra-next](https://github.com/47ng/chakra-next): Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui-steps](https://github.com/jeanverster/chakra-ui-steps): Steps component designed to work seamlessly with Chakra UI.
 - [Formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui): Your Chakra-UI bindings for Formik
+- [create-chakra-icons](https://github.com/kodingdotninja/create-chakra-icons) Transform SVG to React Chakra UI <Icon /> ✨
 
 ## 📝 Articles
 
