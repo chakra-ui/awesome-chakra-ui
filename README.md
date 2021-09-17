@@ -30,6 +30,7 @@ A collection of Chakra UI-related awesomeness
 - [Dokz](https://github.com/remorses/dokz): Effortless documentation with Next.js and MDX.
 - [Opensource.builders](https://github.com/junaid33/opensource.builders): Opensource.builders is a website to find and request open-source alternatives to popular software you already use.
 - [Snappify](https://snappify.io/) A code snippet creator
+- [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard)
 
 ## 🌎️ Websites
 
