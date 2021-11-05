@@ -30,6 +30,8 @@ A collection of Chakra UI-related awesomeness
 - [Dokz](https://github.com/remorses/dokz): Effortless documentation with Next.js and MDX.
 - [Opensource.builders](https://github.com/junaid33/opensource.builders): Opensource.builders is a website to find and request open-source alternatives to popular software you already use.
 - [Snappify](https://snappify.io/) A code snippet creator
+- [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard) a free dashboard built with Chakra UI
+- [Chakra UI's Design vs Dev Challenges](https://github.com/chakra-ui/design-vs-dev) the collection of Design vs. Dev Challenges
 
 ## 🌎️ Websites
 
@@ -61,6 +63,7 @@ A collection of Chakra UI-related awesomeness
 - [chakra-ui-steps](https://github.com/jeanverster/chakra-ui-steps): Steps component designed to work seamlessly with Chakra UI.
 - [Formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui): Your Chakra-UI bindings for Formik
 - [Choc Autocomplete](https://github.com/anubra266/choc-autocomplete): 🏇 Autocomplete Component Package for Chakra UI
+- [create-chakra-icons](https://github.com/kodingdotninja/create-chakra-icons) Transform SVG to React Chakra UI <Icon /> ✨
 
 ## 📝 Articles
 
