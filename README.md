@@ -44,9 +44,10 @@ A collection of Chakra UI-related awesomeness
 ## 📚️ Libraries
 - [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
 - [Next-mdx-boilerplate](https://github.com/whoisryosuke/next-mdx-boilerplate): NextJS + MDX starter with examples (Linting, Styled Components, Chakra UI).
-- [Start-ui](https://github.com/BearStudio/start-ui): 🚧 WIP --- Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz.
+- [Start-ui](https://github.com/BearStudio/start-ui): Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz — From the 🐻 BearStudio Team
 - [Rock-ui](https://github.com/rockcontent/rock-ui): Rock Content Design System component kit in React. Based out on Chakra-UI.
 - [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
+- [Bison](https://github.com/echobind/bisonapp): A Full Stack Jamstack in-a-box brought to you by Echobind
 
 ## 🛠️ Tools
 
