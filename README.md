@@ -32,7 +32,6 @@ A collection of Chakra UI-related awesomeness
 - [Snappify](https://snappify.io/) A code snippet creator
 - [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard) a free dashboard built with Chakra UI
 - [Chakra UI's Design vs Dev Challenges](https://github.com/chakra-ui/design-vs-dev) the collection of Design vs. Dev Challenges
-- [Chakra Datepicker](https://github.com/uselessdev/datepicker) A simple datepicker with Chakra-UI and date-fns
 
 ## 🌎️ Websites
 
@@ -66,6 +65,7 @@ A collection of Chakra UI-related awesomeness
 - [Formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui): Your Chakra-UI bindings for Formik
 - [Choc Autocomplete](https://github.com/anubra266/choc-autocomplete): 🏇 Autocomplete Component Package for Chakra UI
 - [create-chakra-icons](https://github.com/kodingdotninja/create-chakra-icons) Transform SVG to React Chakra UI <Icon /> ✨
+- [Chakra Datepicker](https://github.com/uselessdev/datepicker) A simple datepicker with Chakra-UI and date-fns
 
 ## 📝 Articles
 
