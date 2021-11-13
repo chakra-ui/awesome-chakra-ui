@@ -32,6 +32,7 @@ A collection of Chakra UI-related awesomeness
 - [Snappify](https://snappify.io/) A code snippet creator
 - [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard) a free dashboard built with Chakra UI
 - [Chakra UI's Design vs Dev Challenges](https://github.com/chakra-ui/design-vs-dev) the collection of Design vs. Dev Challenges
+- [Chakra Datepicker](https://github.com/uselessdev/datepicker)
 
 ## 🌎️ Websites
 
