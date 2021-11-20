@@ -35,6 +35,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 🌎️ Websites
 
+- [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨.
 - [Nirmalya Ghosh's Site](https://github.com/ghoshnirmalya/nirmalyaghosh.com): Personal portfolio built using Next.js, Chakra UI, SEO, MDX and TypeScript.
