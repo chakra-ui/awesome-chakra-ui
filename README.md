@@ -50,6 +50,7 @@ A collection of Chakra UI-related awesomeness
 - [Start-ui](https://github.com/BearStudio/start-ui): Opinionated UI starter with ⚛️ React, ⚡️ Chakra UI, ⚛️ React Query & 🐜 Formiz — From the 🐻 BearStudio Team
 - [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
 - [Bison](https://github.com/echobind/bisonapp): A Full Stack Jamstack in-a-box brought to you by Echobind
+- [Fire Hydrant Design System](https://github.com/firehydrant/design-system): FireHydrant flavored React component library, built using Chakra UI
 
 ## 🛠️ Tools
 
