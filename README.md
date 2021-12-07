@@ -41,7 +41,7 @@ A collection of Chakra UI-related awesomeness
 - [Nirmalya Ghosh's Site](https://github.com/ghoshnirmalya/nirmalyaghosh.com): Personal portfolio built using Next.js, Chakra UI, SEO, MDX and TypeScript.
 - [Laura Beatris's Site](https://github.com/LauraBeatris/laurabeatris.com): My portfolio built with Next.js, Chakra UI and GraphCMS.
 - [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
-- [Lazar Nikolov's Site](https://nikolovlazar.com): Lazar's personal website. Made using Next.JS, Chakra UI, MDX, Prisma, PlanetScale, Airtable, Raindrop, and it’s deployed on Vercel.
+- [Lazar Nikolov's Site](https://github.com/lazarnikolov94/nikolovlazar.com): Lazar's personal website. Made using Next.JS, Chakra UI, MDX, Prisma, PlanetScale, Airtable, Raindrop, and it’s deployed on Vercel.
 
 ## 📚️ Libraries
 
