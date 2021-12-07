@@ -33,6 +33,7 @@ A collection of Chakra UI-related awesomeness
 - [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard) a free dashboard built with Chakra UI
 - [Chakra UI's Design vs Dev Challenges](https://github.com/chakra-ui/design-vs-dev) the collection of Design vs. Dev Challenges
 - [Polygon](https://github.com/polygon-isecure/) Polygon is an upcoming open-source and privacy oriented social network. Uses Chakra UI and Next.js for the UI
+- [UI Foundations](https://www.uifoundations.com/) A premium UI/UX design platform built using Chakra UI
 
 ## 🌎️ Websites
 
