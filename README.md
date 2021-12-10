@@ -34,6 +34,7 @@ A collection of Chakra UI-related awesomeness
 - [Chakra UI's Design vs Dev Challenges](https://github.com/chakra-ui/design-vs-dev) the collection of Design vs. Dev Challenges
 - [Polygon](https://github.com/polygon-isecure/polygon) Polygon is an upcoming open-source and privacy oriented social network. Uses Chakra UI and Next.js for the UI
 - [UI Foundations](https://www.uifoundations.com/) A premium UI/UX design platform built using Chakra UI
+- [DevKit](https://www.devkit.one/): A PWA that houses a number of developer focussed 🧰 tools. Free and Open Source, built with NextJS, ⚡ Chakra UI and a number of smaller libraries, by [@AnishDe12020](https://twitter.com/AnishDe12020) and the 🧑‍🤝‍🧑 community.
 
 ## 🌎️ Websites
 
@@ -44,7 +45,6 @@ A collection of Chakra UI-related awesomeness
 - [Laura Beatris's Site](https://github.com/LauraBeatris/laurabeatris.com): My portfolio built with Next.js, Chakra UI and GraphCMS.
 - [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
 - [Lazar Nikolov's Site](https://github.com/lazarnikolov94/nikolovlazar.com): Lazar's personal website. Made using Next.JS, Chakra UI, MDX, Prisma, PlanetScale, Airtable, Raindrop, and it’s deployed on Vercel.
-- [DevKit](https://www.devkit.one/): A PWA that houses a number of developer focussed 🧰 tools. Free and Open Source, built with NextJS, ⚡ Chakra UI and a number of smaller libraries, by [@AnishDe12020](https://twitter.com/AnishDe12020) and the 🧑‍🤝‍🧑 community.
 - [Bloomberg Global Coal Countdown](https://bloombergcoalcountdown.com/): A Rich data vizualitation website built with Next.JS, Chakra UI, and Nivo as the go-to online resource to track the world’s progress towards a coal-free future, by [Zero One Group](https://github.com/zero-one-group).
 
 ## 📚️ Libraries
