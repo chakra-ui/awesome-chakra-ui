@@ -73,6 +73,7 @@ A collection of Chakra UI-related awesomeness
 - [Choc Autocomplete](https://github.com/anubra266/choc-autocomplete): 🏇 Autocomplete Component Package for Chakra UI
 - [create-chakra-icons](https://github.com/kodingdotninja/create-chakra-icons) Transform SVG to React Chakra UI <Icon /> ✨
 - [Chakra Datepicker](https://github.com/uselessdev/datepicker) A simple datepicker with Chakra-UI and date-fns
+- [HyperTheme Editor](https://www.hyperthe.me/) An advanced live theme editor for your Chakra UI projects
 
 ## 📝 Articles
 
