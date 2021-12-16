@@ -76,6 +76,7 @@ A collection of Chakra UI-related awesomeness
 - [create-chakra-icons](https://github.com/kodingdotninja/create-chakra-icons) Transform SVG to React Chakra UI <Icon /> ✨
 - [Chakra Datepicker](https://github.com/uselessdev/datepicker) A simple datepicker with Chakra-UI and date-fns
 - [HyperTheme Editor](https://www.hyperthe.me/) An advanced live theme editor for your Chakra UI projects
+- [Chakra Capsize](https://github.com/ceteio/chakra-capsize) The power of [Capsize](https://seek-oss.github.io/capsize/) inside Chakra UI
 
 ## 📝 Articles
 
