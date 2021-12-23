@@ -37,6 +37,7 @@ A collection of Chakra UI-related awesomeness
 - [DevKit](https://www.devkit.one/): A PWA that houses a number of developer focussed 🧰 tools. Free and Open Source, built with NextJS, ⚡ Chakra UI and a number of smaller libraries, by [@AnishDe12020](https://twitter.com/AnishDe12020) and the 🧑‍🤝‍🧑 community.
 - [React Python IDE](https://react-python-ide.vercel.app/) A Python IDE run in browser,  built with ReactJS,  🔥 Chakra UI, skulpt and Xterm.js. 
 - [Markdown Notes](https://markdown-notes.netlify.app/) A fully responsive note-taking application in markdown language, built with Chakra UI, react-markdown and codemirror.
+- [Third Web](https://thirdweb.com/) A web3 platform that offer tools, intuitive SDKs and widgets for developers.
 
 ## 🌎️ Websites
 
