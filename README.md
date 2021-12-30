@@ -88,6 +88,7 @@ A collection of Chakra UI-related awesomeness
 - [Customisations with Chakra UI](https://www.easyreact.com/articles/chakra-ui-customisations)
 - [Chakra UI and React-Hook-Form – How to Build Beautiful Forms](https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/)
 - [Truncating Text using Chakra UI](https://dev.to/estheragbaje/how-to-truncate-text-using-chakra-ui-4mpj)
+- [How to Set Up Chakra UI with Next JS by creating a Hero component](https://creativedesignsguru.com/chakra-ui-next-js/)
 
 ## 📺️ Videos
 
