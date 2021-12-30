@@ -49,6 +49,7 @@ A collection of Chakra UI-related awesomeness
 - [SurabayaJS's Site](https://github.com/surabayajs/surabayajs.org): Landing page for SurabayaJS, made using Next.js, Chakra UI, and Contentful 🐊.
 - [Lazar Nikolov's Site](https://github.com/lazarnikolov94/nikolovlazar.com): Lazar's personal website. Made using Next.JS, Chakra UI, MDX, Prisma, PlanetScale, Airtable, Raindrop, and it’s deployed on Vercel.
 - [Bloomberg Global Coal Countdown](https://bloombergcoalcountdown.com/): A Rich data vizualitation website built with Next.JS, Chakra UI, and Nivo as the go-to online resource to track the world’s progress towards a coal-free future, by [Zero One Group](https://github.com/zero-one-group).
+- [Klerye](https://www.klerye.com/): A platform to add and find Ghanaian Youtube and Twitch channels. Created using Next.js, Chakra-UI, Prisma, Railway's postgres, trpc and deployed on Vercel.
 
 ## 📚️ Libraries
 
