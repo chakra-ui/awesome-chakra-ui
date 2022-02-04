@@ -24,7 +24,7 @@ A collection of Chakra UI-related awesomeness
 
 - [Chakra UI Pro](https://pro.chakra-ui.com): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
 - [Chakra Templates](https://chakra-templates.dev): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
-- [Choc UI](https://choc-ui.tech/): A set of accessible and reusable components that are commonly used in web applications.
+- [Choc UI](https://choc-ui.com/): A set of accessible and reusable components that are commonly used in web applications.
 - [OnlySetups](https://github.com/wobsoriano/onlysetups): OnlyFans, but for pictures of desk setups
 - [TwitterFOMO.dev](https://github.com/tomdohnal/twitter-fomo): Best WebDev Tweets
 - [Dokz](https://github.com/remorses/dokz): Effortless documentation with Next.js and MDX.
