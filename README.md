@@ -55,6 +55,7 @@ A collection of Chakra UI-related awesomeness
 - [Klerye](https://www.klerye.com/): A platform to add and find Ghanaian Youtube and Twitch channels. Created using Next.js, Chakra-UI, Prisma, Railway's postgres, trpc and deployed on Vercel.
 - [June](https://june.so): An app that generates instant product analytics reports on top of Segment. Made using Next.js and a custom Chakra UI theme.
 - [Confused's Site](https://confused.studio): Creative engineering studio of digital products and video games. Website powered by NextJS, Typescript, Next-SEO, Chakra UI and Amplify.
+- [TRIGO's Site](https://trigodev.com): Company Website. We are a software development company specializing in business software. Our Website and all of our apps are powered by Chakra UI & co.
 
 ## 📚️ Libraries
 
