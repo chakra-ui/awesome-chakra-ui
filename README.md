@@ -41,6 +41,7 @@ A collection of Chakra UI-related awesomeness
 - [Top.gg](https://top.gg/) The Best Discord Bots and Servers.
 - [Octoclairvoyant](https://octoclairvoyant.vercel.app/) A webapp to compare GitHub changelogs across multiple releases. Made with Next.js and Chakra UI.
 - [Roadster](https://r0adster.live) Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra
+- [MockRocket](https://mockrocket.io/) Show off your app with jaw-dropping 3D mockups and product videos, right in your browser
 
 ## 🌎️ Websites
 
