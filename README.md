@@ -45,6 +45,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 🌎️ Websites
 
+- [Beema Finance](https://beema.finance): Earn ultra-high, stable yields on dollars. Powered by DeFi. Built with Chakra UI 🌿.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨.
