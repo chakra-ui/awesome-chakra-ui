@@ -61,6 +61,7 @@ A collection of Chakra UI-related awesomeness
 - [TRIGO's Site](https://trigodev.com): Company Website. We are a software development company specializing in business software. Our Website and all of our apps are powered by Chakra UI & co.
 - [Hari Kotha's Site](https://harikotha.netlify.app/): Personal portfolio website built with React.js, React-Router and Chakra UI.
 - [wattanx's Site](https://wattanx.dev/): Personal website of wattanx. Made using Next.js, Chakra UI.
+- [Gurudutt Perichetla's Website](https://www.guruduttperi.com/): Guru's personal website. Built with NextJS and Chakra UI.
 
 ## 📚️ Libraries
 
