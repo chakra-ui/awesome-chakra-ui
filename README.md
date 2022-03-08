@@ -62,6 +62,7 @@ A collection of Chakra UI-related awesomeness
 - [Hari Kotha's Site](https://harikotha.netlify.app/): Personal portfolio website built with React.js, React-Router and Chakra UI.
 - [wattanx's Site](https://wattanx.dev/): Personal website of wattanx. Made using Next.js, Chakra UI.
 - [Gurudutt Perichetla's Website](https://www.guruduttperi.com/): Guru's personal website. Built with NextJS and Chakra UI.
+- [Rakhi Boxes](https://rakhiboxes.com): A beautiful gift delivered straight to your loved ones door.
 
 ## 📚️ Libraries
 
