@@ -43,6 +43,7 @@ A collection of Chakra UI-related awesomeness
 - [Roadster](https://r0adster.live) Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra
 - [MockRocket](https://mockrocket.io/) Show off your app with jaw-dropping 3D mockups and product videos, right in your browser
 - [Saas UI](https://saas-ui.dev) An advanced component library build for SaaS products.
+- [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
 
 ## 🌎️ Websites
 
