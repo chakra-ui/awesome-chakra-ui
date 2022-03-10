@@ -35,7 +35,7 @@ A collection of Chakra UI-related awesomeness
 - [Polygon](https://github.com/polygon-isecure/polygon) Polygon is an upcoming open-source and privacy oriented social network. Uses Chakra UI and Next.js for the UI
 - [UI Foundations](https://www.uifoundations.com/) A premium UI/UX design platform built using Chakra UI
 - [DevKit](https://www.devkit.one/): A PWA that houses a number of developer focussed 🧰 tools. Free and Open Source, built with NextJS, ⚡ Chakra UI and a number of smaller libraries, by [@AnishDe12020](https://twitter.com/AnishDe12020) and the 🧑‍🤝‍🧑 community.
-- [React Python IDE](https://react-python-ide.vercel.app/) A Python IDE run in browser,  built with ReactJS,  🔥 Chakra UI, skulpt and Xterm.js. 
+- [React Python IDE](https://react-python-ide.vercel.app/) A Python IDE run in browser, built with ReactJS, 🔥 Chakra UI, skulpt and Xterm.js.
 - [Markdown Notes](https://markdown-notes.netlify.app/) A fully responsive note-taking application in markdown language, built with Chakra UI, react-markdown and codemirror.
 - [thirdweb](https://thirdweb.com/) A web3 platform that offers contracts, intuitive SDKs, a dashboard and widgets for developers.
 - [Top.gg](https://top.gg/) The Best Discord Bots and Servers.
@@ -63,6 +63,7 @@ A collection of Chakra UI-related awesomeness
 - [wattanx's Site](https://wattanx.dev/): Personal website of wattanx. Made using Next.js, Chakra UI.
 - [Gurudutt Perichetla's Website](https://www.guruduttperi.com/): Guru's personal website. Built with NextJS and Chakra UI.
 - [Rakhi Boxes](https://rakhiboxes.com): A beautiful gift delivered straight to your loved ones door.
+- [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
 
 ## 📚️ Libraries
 
