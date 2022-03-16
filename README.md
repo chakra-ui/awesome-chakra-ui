@@ -115,6 +115,7 @@ A collection of Chakra UI-related awesomeness
 - [Customise your theme and components](https://youtube.com/watch?v=1J8dUyeUWO4&feature=share)
 - [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0&feature=share)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
+- [Chakra UI crash course](https://youtu.be/hJ873mLhmFQ)
 
 ## Guides
 
