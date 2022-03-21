@@ -94,6 +94,7 @@ A collection of Chakra UI-related awesomeness
 - [HyperTheme Editor](https://www.hyperthe.me/) An advanced live theme editor for your Chakra UI projects
 - [Chakra Capsize](https://github.com/ceteio/chakra-capsize) The power of [Capsize](https://seek-oss.github.io/capsize/) inside Chakra UI
 - [eslint-plugin-chakra-ui](https://github.com/Monchi/eslint-plugin-chakra-ui) ESLint rules for Chakra UI, such as enforcing the order of props to be semantic
+- [react-spreadsheet-import](https://github.com/UgnisSoftware/react-spreadsheet-import) An import flow component for Excel/CSV. Built with Chakra-UI and fully customisable.
 
 ## 📝 Articles
 
