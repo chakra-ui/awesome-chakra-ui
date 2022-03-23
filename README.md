@@ -95,6 +95,7 @@ A collection of Chakra UI-related awesomeness
 - [Chakra Capsize](https://github.com/ceteio/chakra-capsize) The power of [Capsize](https://seek-oss.github.io/capsize/) inside Chakra UI
 - [eslint-plugin-chakra-ui](https://github.com/Monchi/eslint-plugin-chakra-ui) ESLint rules for Chakra UI, such as enforcing the order of props to be semantic
 - [react-spreadsheet-import](https://github.com/UgnisSoftware/react-spreadsheet-import) An import flow component for Excel/CSV. Built with Chakra-UI and fully customisable.
+- [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
 
 ## 📝 Articles
 
