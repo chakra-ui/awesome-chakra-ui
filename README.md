@@ -46,7 +46,6 @@ A collection of Chakra UI-related awesomeness
 
 ## 🌎️ Websites
 
-- [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
 - [Beema Finance](https://beema.finance): Earn ultra-high, stable yields on dollars. Powered by DeFi. Built with Chakra UI 🌿.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [Rich Haines's Website](https://richardhaines.dev/)
@@ -65,6 +64,7 @@ A collection of Chakra UI-related awesomeness
 - [Gurudutt Perichetla's Website](https://www.guruduttperi.com/): Guru's personal website. Built with NextJS and Chakra UI.
 - [Rakhi Boxes](https://rakhiboxes.com): A beautiful gift delivered straight to your loved ones door.
 - [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
+- [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
 
 ## 📚️ Libraries
 
