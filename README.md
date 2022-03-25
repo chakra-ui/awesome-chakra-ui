@@ -46,6 +46,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 🌎️ Websites
 
+- [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
 - [Beema Finance](https://beema.finance): Earn ultra-high, stable yields on dollars. Powered by DeFi. Built with Chakra UI 🌿.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [Rich Haines's Website](https://richardhaines.dev/)
@@ -99,6 +100,10 @@ A collection of Chakra UI-related awesomeness
 
 ## 📝 Articles
 
+- [I have created Web Gallery app using Reactjs , WebRTC and Chakra UI](https://dev.to/harshmangalam/i-have-created-web-gallery-app-using-reactjs-webrtc-and-chakra-ui-5cfn)
+- [Track user location coordinates realtime using geolocation api, nextjs , nodejs and socket.io](https://dev.to/harshmangalam/track-user-location-coordinates-realtime-using-geolocation-api-nextjs-nodejs-and-socket-io-2nf3)
+- [Setup Nextjs , Apollo client and Chakra UI for your upcomming projects](https://dev.to/harshmangalam/setup-nextjs-apollo-client-and-chakra-ui-for-your-upcomming-projects-10ja)
+- [Image Uploading using golang and react](https://dev.to/harshmangalam/image-upload-using-golang-and-react-29n1)
 - [How ChakraUI complements your existing web development skills](https://dominik.sumer.dev/blog/chakra-complements-webdevs)
 - [Accessibility on-demand with Chakra-ui and focus-visible](https://medium.com/@keeganfamouss/accessibility-on-demand-with-chakra-ui-and-focus-visible-19413b1bc6f9)
 - [Build a Landing Page with Chakra UI](https://raptis.wtf/blog/build-a-landing-page-with-chakra-ui-part-1/)
