@@ -66,6 +66,7 @@ A collection of Chakra UI-related awesomeness
 - [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
 - [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
 - [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management
+- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
 
 ## 📚️ Libraries
 
