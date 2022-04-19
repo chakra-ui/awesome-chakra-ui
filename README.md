@@ -69,6 +69,7 @@ A collection of Chakra UI-related awesomeness
 - [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management
 - [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
+- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 
 ## 📚️ Libraries
 
@@ -78,7 +79,6 @@ A collection of Chakra UI-related awesomeness
 - [React-hook-form-generator](https://github.com/FionnCasey/react-hook-form-generator): Generate React forms from schema using Chakra UI and React Hook Form.
 - [Bison](https://github.com/echobind/bisonapp): A Full Stack Jamstack in-a-box brought to you by Echobind
 - [Fire Hydrant Design System](https://github.com/firehydrant/design-system): FireHydrant flavored React component library, built using Chakra UI
-- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 
 ## 🛠️ Tools
 
@@ -102,7 +102,6 @@ A collection of Chakra UI-related awesomeness
 - [eslint-plugin-chakra-ui](https://github.com/Monchi/eslint-plugin-chakra-ui) ESLint rules for Chakra UI, such as enforcing the order of props to be semantic
 - [react-spreadsheet-import](https://github.com/UgnisSoftware/react-spreadsheet-import) An import flow component for Excel/CSV. Built with Chakra-UI and fully customisable.
 - [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
-- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 
 ## 📝 Articles
 
