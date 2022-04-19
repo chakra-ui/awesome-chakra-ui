@@ -44,6 +44,7 @@ A collection of Chakra UI-related awesomeness
 - [MockRocket](https://mockrocket.io/) Show off your app with jaw-dropping 3D mockups and product videos, right in your browser
 - [Saas UI](https://saas-ui.dev) An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es) A collaborative list of resources for developers.
+- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 
 ## 🌎️ Websites
 
@@ -70,7 +71,6 @@ A collection of Chakra UI-related awesomeness
 - [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
-- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 
 ## 📚️ Libraries
 
