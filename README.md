@@ -45,6 +45,7 @@ A collection of Chakra UI-related awesomeness
 - [Saas UI](https://saas-ui.dev) An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es) A collaborative list of resources for developers.
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
+- [Pesabooks](https://pesabooks.com/) A digital platform to save and invest together, with Crypto.
 
 ## 🌎️ Websites
 
