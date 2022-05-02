@@ -47,6 +47,7 @@ A collection of Chakra UI-related awesomeness
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 - [Pesabooks](https://pesabooks.com/) A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/) Record Daily Portion Intake, Set Limits, and View Reports.
+- [TemplatesKart](https://templateskart.com/) Production-ready hand crafted beautiful Projects and Components list built on top of Chakra UI.
 
 ## 🌎️ Websites
 
