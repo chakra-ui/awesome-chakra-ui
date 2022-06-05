@@ -48,6 +48,10 @@ A collection of Chakra UI-related awesomeness
 - [Pesabooks](https://pesabooks.com/) A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/) Record Daily Portion Intake, Set Limits, and View Reports.
 - [TemplatesKart](https://templateskart.com/) Production-ready hand crafted beautiful Projects and Components list built on top of Chakra UI.
+- [nextarter-chakra](https://nextarter-chakra.sznm.dev): battery packed template to initialize Next.js app with Chakra UI & Typescript setup
+- [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
+- [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
+- [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
 
 ## 🌎️ Websites
 
