@@ -83,6 +83,7 @@ A collection of Chakra UI-related awesomeness
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
 - [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
 - [Supa Palette Website](https://supa-palette.com) Official website of Supa Palette plugin for Figma.
+- [CodeNanshu](https://codenanshu.in) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
 
 ## 📚️ Libraries
 
