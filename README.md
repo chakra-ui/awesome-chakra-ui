@@ -139,6 +139,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 📺️ Videos
 
+- [Chakra UI for Beginners](https://www.chakrauiforbeginners.com/)
 - [Getting Started with Chakra UI](https://youtu.be/wI2vqXsjsIo)
 - [The Future of Chakra UI (with Segun Adebayo & Lee Robinson)](https://www.youtube.com/watch?v=I5xEc9t-HZg&t=1182s)
 - [Building an Absence Tracker with Blitz JS and Chakra UI (Series)](https://youtu.be/bJmFwle8Ax0)
