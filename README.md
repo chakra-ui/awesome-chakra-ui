@@ -133,6 +133,9 @@ A collection of Chakra UI-related awesomeness
 - [Truncating Text using Chakra UI](https://dev.to/estheragbaje/how-to-truncate-text-using-chakra-ui-4mpj)
 - [How to Set Up Chakra UI with Next JS by creating a Hero component](https://creativedesignsguru.com/chakra-ui-next-js/)
 - [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
+- [How To Build an Advanced Multipart Component with Chakra UI](https://www.lekoarts.de/react/how-to-build-an-advanced-multipart-component-with-chakra-ui)
+- [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
+- 
 
 ## 📺️ Videos
 
@@ -144,6 +147,12 @@ A collection of Chakra UI-related awesomeness
 - [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0&feature=share)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
 - [Chakra UI crash course](https://youtu.be/hJ873mLhmFQ)
+- [Chakra Shorts #1 - Dynamic Shadow Image](https://www.youtube.com/watch?v=HMTyQjASff4)
+- [Chakra Shorts #2 - Custom Ring Colors](https://www.youtube.com/watch?v=7p16X1JkEE0)
+- [Maintaining Chakra UI](https://www.youtube.com/watch?v=0TLxtE_GCbM)
+- [How to use Chakra UI's Default Theme](https://www.youtube.com/watch?v=KOCAnM7HJ4U)
+- [Chakra UI and Gatsby - Getting Started](https://www.youtube.com/watch?v=hXM9Ju_NIpU)
+- [How to enable Right-to-Left (RTL) support using Chakra UI](https://www.youtube.com/watch?v=PzEHoqLj4OM)
 
 ## Guides
 
