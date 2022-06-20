@@ -135,7 +135,6 @@ A collection of Chakra UI-related awesomeness
 - [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
 - [How To Build an Advanced Multipart Component with Chakra UI](https://www.lekoarts.de/react/how-to-build-an-advanced-multipart-component-with-chakra-ui)
 - [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
-- 
 
 ## 📺️ Videos
 
