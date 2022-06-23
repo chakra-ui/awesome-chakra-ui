@@ -118,6 +118,7 @@ A collection of Chakra UI-related awesomeness
 - [react-spreadsheet-import](https://github.com/UgnisSoftware/react-spreadsheet-import) An import flow component for Excel/CSV. Built with Chakra-UI and fully customisable.
 - [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
 - [Supa Palette Plugin](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) All-in-one palettes generator, editor and manager for Figma.
+- [withTypeScale](https://github.com/TylerAPfledderer/chakra-ui-typescale) Theme extension for Chakra UI, which generates theming for font type scales.
 
 
 ## 📝 Articles
