@@ -85,6 +85,7 @@ A collection of Chakra UI-related awesomeness
 - [Supa Palette Website](https://supa-palette.com) Official website of Supa Palette plugin for Figma.
 - [CodeNanshu](https://codenanshu.in) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
 - [Júlio Werner](https://juliowerner.com) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
+- [itsrakesh - blog](https://blog.itsrakesh.co/) Blog website built with Chakra UI and NextJs.
 
 ## 📚️ Libraries
 
