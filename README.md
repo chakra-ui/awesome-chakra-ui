@@ -86,6 +86,7 @@ A collection of Chakra UI-related awesomeness
 - [CodeNanshu](https://codenanshu.in) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
 - [Júlio Werner](https://juliowerner.com) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
 - [itsrakesh - blog](https://blog.itsrakesh.co/) Blog website built with Chakra UI and NextJs.
+- [eduo Instrukcije](https://instrukcije.eduo.help/) Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
 
 ## 📚️ Libraries
 
