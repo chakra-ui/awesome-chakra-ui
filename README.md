@@ -53,7 +53,6 @@ A collection of Chakra UI-related awesomeness
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
 - [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
 
-
 ## 🌎️ Websites
 
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
@@ -78,7 +77,7 @@ A collection of Chakra UI-related awesomeness
 - [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
 - [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
 - [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management
-- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
+- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel.
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
 - [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
@@ -91,6 +90,7 @@ A collection of Chakra UI-related awesomeness
 - [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
 - [Vizima](https://www.vizima.in) - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+
 ## 📚️ Libraries
 
 - [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
@@ -124,7 +124,6 @@ A collection of Chakra UI-related awesomeness
 - [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
 - [Supa Palette Plugin](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) All-in-one palettes generator, editor and manager for Figma.
 - [withTypeScale](https://github.com/TylerAPfledderer/chakra-ui-typescale) Theme extension for Chakra UI, which generates theming for font type scales.
-
 
 ## 📝 Articles
 
