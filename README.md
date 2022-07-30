@@ -52,7 +52,6 @@ A collection of Chakra UI-related awesomeness
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
 - [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
 
-
 ## 🌎️ Websites
 
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
@@ -90,6 +89,7 @@ A collection of Chakra UI-related awesomeness
 - [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
 - [Vizima](https://www.vizima.in) - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+
 ## 📚️ Libraries
 
 - [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
@@ -123,7 +123,6 @@ A collection of Chakra UI-related awesomeness
 - [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
 - [Supa Palette Plugin](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) All-in-one palettes generator, editor and manager for Figma.
 - [withTypeScale](https://github.com/TylerAPfledderer/chakra-ui-typescale) Theme extension for Chakra UI, which generates theming for font type scales.
-
 
 ## 📝 Articles
 
