@@ -52,6 +52,7 @@ A collection of Chakra UI-related awesomeness
 - [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
 - [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
+- [FeedHive](https://feedhive.io): Social Media content creation platform.
 
 
 ## 🌎️ Websites
@@ -160,10 +161,6 @@ A collection of Chakra UI-related awesomeness
 - [How to use Chakra UI's Default Theme](https://www.youtube.com/watch?v=KOCAnM7HJ4U)
 - [Chakra UI and Gatsby - Getting Started](https://www.youtube.com/watch?v=hXM9Ju_NIpU)
 - [How to enable Right-to-Left (RTL) support using Chakra UI](https://www.youtube.com/watch?v=PzEHoqLj4OM)
-
-## Guides
-
-## Talks
 
 ## Contribute
 
