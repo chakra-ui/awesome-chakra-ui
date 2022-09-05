@@ -47,10 +47,19 @@ A collection of Chakra UI-related awesomeness
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) Trendiest Open Source Admin Template based on Chakra UI!
 - [Pesabooks](https://pesabooks.com/) A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/) Record Daily Portion Intake, Set Limits, and View Reports.
+- [TemplatesKart](https://templateskart.com/) Production-ready hand crafted beautiful Projects and Components list built on top of Chakra UI.
+- [nextarter-chakra](https://nextarter-chakra.sznm.dev): battery packed template to initialize Next.js app with Chakra UI & Typescript setup
+- [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
+- [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
+- [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
+- [FeedHive](https://feedhive.io): Social Media content creation platform.
+
 
 ## 🌎️ Websites
-
 - [MockZilla](https://mockzilla.in/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
+- [Boring+Ordinary](https://boringordinary.com): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
+- [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
+- [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
 - [Beema Finance](https://beema.finance): Earn ultra-high, stable yields on dollars. Powered by DeFi. Built with Chakra UI 🌿.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [Rich Haines's Website](https://richardhaines.dev/)
@@ -74,7 +83,16 @@ A collection of Chakra UI-related awesomeness
 - [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
-
+- [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
+- [Supa Palette Website](https://supa-palette.com) Official website of Supa Palette plugin for Figma.
+- [CodeNanshu](https://codenanshu.in) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
+- [Júlio Werner](https://juliowerner.com) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
+- [itsrakesh - blog](https://blog.itsrakesh.co/) Blog website built with Chakra UI and NextJs.
+- [eduo Instrukcije](https://instrukcije.eduo.help/) Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
+- [Plan Harmony](https://planharmony.com): Collabortive trip planning.
+- [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
+- [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
+- [Vizima](https://www.vizima.in) - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
 ## 📚️ Libraries
 
 - [Chakra+Formik Integration Experiment](https://github.com/with-heart/chakra-formik-experiment/): An experiment for tight-knit Chakra+Formik integration with a familiar API
@@ -106,6 +124,9 @@ A collection of Chakra UI-related awesomeness
 - [eslint-plugin-chakra-ui](https://github.com/Monchi/eslint-plugin-chakra-ui) ESLint rules for Chakra UI, such as enforcing the order of props to be semantic
 - [react-spreadsheet-import](https://github.com/UgnisSoftware/react-spreadsheet-import) An import flow component for Excel/CSV. Built with Chakra-UI and fully customisable.
 - [Chakra UI Prose](https://github.com/nikolovlazar/chakra-ui-prose) A custom Chakra UI component that adds ready-made styles for rendering remote HTML content.
+- [Supa Palette Plugin](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) All-in-one palettes generator, editor and manager for Figma.
+- [withTypeScale](https://github.com/TylerAPfledderer/chakra-ui-typescale) Theme extension for Chakra UI, which generates theming for font type scales.
+
 
 ## 📝 Articles
 
@@ -121,9 +142,12 @@ A collection of Chakra UI-related awesomeness
 - [Truncating Text using Chakra UI](https://dev.to/estheragbaje/how-to-truncate-text-using-chakra-ui-4mpj)
 - [How to Set Up Chakra UI with Next JS by creating a Hero component](https://creativedesignsguru.com/chakra-ui-next-js/)
 - [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
+- [How To Build an Advanced Multipart Component with Chakra UI](https://www.lekoarts.de/react/how-to-build-an-advanced-multipart-component-with-chakra-ui)
+- [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
 
 ## 📺️ Videos
 
+- [Chakra UI for Beginners](https://www.chakrauiforbeginners.com/)
 - [Getting Started with Chakra UI](https://youtu.be/wI2vqXsjsIo)
 - [The Future of Chakra UI (with Segun Adebayo & Lee Robinson)](https://www.youtube.com/watch?v=I5xEc9t-HZg&t=1182s)
 - [Building an Absence Tracker with Blitz JS and Chakra UI (Series)](https://youtu.be/bJmFwle8Ax0)
@@ -132,10 +156,12 @@ A collection of Chakra UI-related awesomeness
 - [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0&feature=share)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
 - [Chakra UI crash course](https://youtu.be/hJ873mLhmFQ)
-
-## Guides
-
-## Talks
+- [Chakra Shorts #1 - Dynamic Shadow Image](https://www.youtube.com/watch?v=HMTyQjASff4)
+- [Chakra Shorts #2 - Custom Ring Colors](https://www.youtube.com/watch?v=7p16X1JkEE0)
+- [Maintaining Chakra UI](https://www.youtube.com/watch?v=0TLxtE_GCbM)
+- [How to use Chakra UI's Default Theme](https://www.youtube.com/watch?v=KOCAnM7HJ4U)
+- [Chakra UI and Gatsby - Getting Started](https://www.youtube.com/watch?v=hXM9Ju_NIpU)
+- [How to enable Right-to-Left (RTL) support using Chakra UI](https://www.youtube.com/watch?v=PzEHoqLj4OM)
 
 ## Contribute
 
