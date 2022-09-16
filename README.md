@@ -56,6 +56,7 @@ A collection of Chakra UI-related awesomeness
 
 
 ## 🌎️ Websites
+- [Life Pro Tips](https://lifeprotips.com/): Tips to improve your life. From the creator of /r/lifeprotips.
 - [MockZilla](https://mockzilla.com/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
 - [Boring+Ordinary](https://boringordinary.com): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
 - [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
