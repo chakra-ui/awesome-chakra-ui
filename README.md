@@ -57,6 +57,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 🌎️ Websites
 
+- [Pie Chart Creator](https://www.piechartcreator.site): Quickly create sophisticated Pie Charts!. Powered By Chakra UI and React JS.
 - [Schext](https://schext.com): A powerful text schedule tool, that allows your clients to set appointments without you.
 - [Life Pro Tips](https://lifeprotips.com/): Tips to improve your life. From the creator of /r/lifeprotips.
 - [MockZilla](https://mockzilla.com/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
