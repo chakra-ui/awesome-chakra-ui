@@ -31,8 +31,8 @@ A collection of Chakra UI-related awesomeness
 ## 🔥 Projects
 
 - [Chakra UI Time Scroller](https://www.npmjs.com/package/chakra-ui-time-scroller): This is a clean time picker/scroller built for javascript and typescript with chakra-ui.
-- [Chakra UI Pro](https://pro.chakra-ui.com): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
-- [Chakra Templates](https://chakra-templates.dev): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
+- [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
+- [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
 - [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.com/): A set of accessible and reusable components that are commonly used in web applications.
@@ -50,27 +50,27 @@ A collection of Chakra UI-related awesomeness
 - [thirdweb](https://thirdweb.com/): A web3 platform that offers contracts, intuitive SDKs, a dashboard and widgets for developers.
 - [Top.gg](https://top.gg/): The Best Discord Bots and Servers.
 - [Octoclairvoyant](https://octoclairvoyant.vercel.app/): A webapp to compare GitHub changelogs across multiple releases. Made with Next.js and Chakra UI.
-- [Roadster](https://r0adster.live): Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra.
+- [Roadster](https://r0adster.live/): Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra.
 - [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
-- [Saas UI](https://saas-ui.dev): An advanced component library build for SaaS products.
-- [Dev Resources](https://devresourc.es): A collaborative list of resources for developers.
+- [Saas UI](https://saas-ui.dev/): An advanced component library build for SaaS products.
+- [Dev Resources](https://devresourc.es/): A collaborative list of resources for developers.
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra): Trendiest Open Source Admin Template based on Chakra UI!
 - [Pesabooks](https://pesabooks.com/): A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/): Record Daily Portion Intake, Set Limits, and View Reports.
 - [TemplatesKart](https://templateskart.com/): Production-ready hand crafted beautiful Projects and Components list built on top of Chakra UI.
-- [nextarter-chakra](https://nextarter-chakra.sznm.dev): battery packed template to initialize Next.js app with Chakra UI & Typescript setup.
-- [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
+- [nextarter-chakra](https://nextarter-chakra.sznm.dev/): battery packed template to initialize Next.js app with Chakra UI & Typescript setup.
+- [olamonde](https://olamonde.me/): One link to rule them all. Easily place your links in a beautiful single page.
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
-- [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
-- [FeedHive](https://feedhive.io): Social Media content creation platform.
+- [Public APIs](https://publicapis.sznm.dev/): Find public APIs for your next project.
+- [FeedHive](https://feedhive.io/): Social Media content creation platform.
 
 ## 🌎️ Websites
 
-- [Pie Chart Creator](https://www.piechartcreator.site): Quickly create sophisticated Pie Charts!. Powered By Chakra UI and React JS.
-- [Schext](https://schext.com): A powerful text schedule tool, that allows your clients to set appointments without you.
+- [Pie Chart Creator](https://www.piechartcreator.site/): Quickly create sophisticated Pie Charts!. Powered By Chakra UI and React JS.
+- [Schext](https://schext.com/): A powerful text schedule tool, that allows your clients to set appointments without you.
 - [Life Pro Tips](https://lifeprotips.com/): Tips to improve your life. From the creator of /r/lifeprotips.
 - [MockZilla](https://mockzilla.com/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!
-- [Boring+Ordinary](https://boringordinary.com): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
+- [Boring+Ordinary](https://boringordinary.com/): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
 - [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
@@ -85,44 +85,44 @@ A collection of Chakra UI-related awesomeness
 - [Bloomberg Global Coal Countdown](https://bloombergcoalcountdown.com/): A Rich data vizualitation website built with Next.JS, Chakra UI, and Nivo as the go-to online resource to track the world’s progress towards a coal-free future, by [Zero One Group](https://github.com/zero-one-group).
 - [Klerye](https://www.klerye.com/): A platform to add and find Ghanaian Youtube and Twitch channels. Created using Next.js, Chakra-UI, Prisma, Railway's postgres, trpc and deployed on Vercel.
 - [June](https://june.so): An app that generates instant product analytics reports on top of Segment. Made using Next.js and a custom Chakra UI theme.
-- [Confused's Site](https://confused.studio): Creative engineering studio of digital products and video games. Website powered by NextJS, Typescript, Next-SEO, Chakra UI and Amplify.
-- [TRIGO's Site](https://trigodev.com): Company Website. We are a software development company specializing in business software. Our Website and all of our apps are powered by Chakra UI & co.
+- [Confused's Site](https://confused.studio/): Creative engineering studio of digital products and video games. Website powered by NextJS, Typescript, Next-SEO, Chakra UI and Amplify.
+- [TRIGO's Site](https://trigodev.com/): Company Website. We are a software development company specializing in business software. Our Website and all of our apps are powered by Chakra UI & co.
 - [Hari Kotha's Site](https://harikotha.netlify.app/): Personal portfolio website built with React.js, React-Router and Chakra UI.
 - [wattanx's Site](https://wattanx.dev/): Personal website of wattanx. Made using Next.js, Chakra UI.
 - [Gurudutt Perichetla's Website](https://www.guruduttperi.com/): Guru's personal website. Built with NextJS and Chakra UI.
-- [Rakhi Boxes](https://rakhiboxes.com): A beautiful gift delivered straight to your loved ones door.
+- [Rakhi Boxes](https://rakhiboxes.com/): A beautiful gift delivered straight to your loved ones door.
 - [Bobobox Mandalika Campsite](https://bobobox.co.id/campsite/mandalika/): A landing page for promoting Mandalika Campsite by Bobobox X Eiger.
 - [SURE Trust](https://suretrustforruralyouth.com/) : Free e-Learning platform. Build with chakra UI and ReactJs.
-- [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management
+- [inspektre](https://inspektre.io/): SAAS Platform for Application Security Posture Management
 - [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel.
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
-- [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
-- [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
-- [Supa Palette Website](https://supa-palette.com) Official website of Supa Palette plugin for Figma.
-- [CodeNanshu](https://codenanshu.in) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
-- [Júlio Mühlbauer](https://juliomuhlbauer.com) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
+- [Sharehouse](https://sharehouse.app/): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
+- [Muhammad Ahmad's Site](https://mahmad.me/): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
+- [Supa Palette Website](https://supa-palette.com/) Official website of Supa Palette plugin for Figma.
+- [CodeNanshu](https://codenanshu.in/) Personal portfolio website built with Nextjs, advanced Techs and Chakra UI
+- [Júlio Mühlbauer](https://juliomuhlbauer.com/) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
 - [itsrakesh - blog](https://blog.itsrakesh.co/) Blog website built with Chakra UI and NextJs.
 - [eduo Instrukcije](https://instrukcije.eduo.help/) Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
-- [Plan Harmony](https://planharmony.com): Collabortive trip planning.
-- [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
+- [Plan Harmony](https://planharmony.com/): Collabortive trip planning.
+- [Amine Elbarry](https://elbarryamine.com/): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of my CSS Skills.
-- [Vizima](https://www.vizima.in) - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
-- [Newton Mbugua Portfolio](https://mbuguanewton.dev): My personal porfolio build suing Next JS, Chakra UI and Notion as a CMS.
+- [Vizima](https://www.vizima.i/n) - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+- [Newton Mbugua Portfolio](https://mbuguanewton.dev/): My personal porfolio build suing Next JS, Chakra UI and Notion as a CMS.
 - [SURE Trust](https://suretrustforruralyouth.com/): Free e-Learning platform. Build with chakra UI and ReactJs.
-- [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management.
+- [inspektre](https://inspektre.io/): SAAS Platform for Application Security Posture Management.
 - [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel.
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
-- [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
-- [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
-- [Supa Palette Website](https://supa-palette.com): Official website of Supa Palette plugin for Figma.
-- [CodeNanshu](https://codenanshu.in): Personal portfolio website built with Nextjs, advanced Techs and Chakra UI.
-- [Júlio Werner](https://juliowerner.com): Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
+- [Sharehouse](https://sharehouse.app/): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
+- [Muhammad Ahmad's Site](https://mahmad.me/): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
+- [Supa Palette Website](https://supa-palette.com/): Official website of Supa Palette plugin for Figma.
+- [CodeNanshu](https://codenanshu.in/): Personal portfolio website built with Nextjs, advanced Techs and Chakra UI.
+- [Júlio Werner](https://juliowerner.com/): Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
 - [itsrakesh - blog](https://blog.itsrakesh.co/): Blog website built with Chakra UI and NextJs.
 - [eduo Instrukcije](https://instrukcije.eduo.help/): Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
-- [Plan Harmony](https://planharmony.com): Collabortive trip planning.
-- [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
+- [Plan Harmony](https://planharmony.com/): Collabortive trip planning.
+- [Amine Elbarry](https://elbarryamine.com/): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
-- [Vizima](https://www.vizima.in): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+- [Vizima](https://www.vizima.in/): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
 
 ## 📚️ Libraries
 
