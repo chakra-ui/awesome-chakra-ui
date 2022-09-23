@@ -1,5 +1,13 @@
 # Awesome Chakra UI
 
+<!--
+
+## CONTRIBUTING
+
+- Please make sure to read the [Contributing Guide](./code-of-conduct.md) before making a pull request.
+
+-->
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of Chakra UI-related awesomeness
@@ -102,7 +110,7 @@ A collection of Chakra UI-related awesomeness
 - [Newton Mbugua Portfolio](https://mbuguanewton.dev): My personal porfolio build suing Next JS, Chakra UI and Notion as a CMS.
 - [SURE Trust](https://suretrustforruralyouth.com/): Free e-Learning platform. Build with chakra UI and ReactJs.
 - [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management.
-- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
+- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel.
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
 - [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
