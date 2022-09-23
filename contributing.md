@@ -4,16 +4,11 @@ Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
 
----
+## Formatting
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+- Please end root domain urls with a trailing slash (one less redirect request for the user) - eg. `https://example.com/` instead of `https://example.com`
+- Please end each line/description with a full-stop/period
+  - unless the line ends with a exclamation mark, question mark or emoji
 
 ## Updating your PR
 
