@@ -65,7 +65,6 @@ A collection of Chakra UI-related awesomeness
 - [Boring+Ordinary](https://boringordinary.com): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
 - [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
-- [Beema Finance](https://beema.finance): Earn ultra-high, stable yields on dollars. Powered by DeFi. Built with Chakra UI 🌿.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
 - [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
