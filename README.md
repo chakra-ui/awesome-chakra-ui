@@ -54,6 +54,10 @@ A collection of Chakra UI-related awesomeness
 - [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
 - [Saas UI](https://saas-ui.dev/): An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es/): A collaborative list of resources for developers.
+- [Roadster](https://r0adster.live): Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra.
+- [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
+- [Saas UI](https://saas-ui.dev): An advanced component library build for SaaS products.
+- [Dev Resources](https://devresourc.es): A collaborative list of resources for developers.
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra): Trendiest Open Source Admin Template based on Chakra UI!
 - [Pesabooks](https://pesabooks.com/): A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/): Record Daily Portion Intake, Set Limits, and View Reports.
@@ -63,6 +67,10 @@ A collection of Chakra UI-related awesomeness
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
 - [Public APIs](https://publicapis.sznm.dev/): Find public APIs for your next project.
 - [FeedHive](https://feedhive.io/): Social Media content creation platform.
+- [nextarter-chakra](https://nextarter-chakra.sznm.dev): battery packed template to initialize Next.js app with Chakra UI & Typescript setup.
+- [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
+- [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
+- [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
 
 ## 🌎️ Websites
 
@@ -75,6 +83,7 @@ A collection of Chakra UI-related awesomeness
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
 - [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!
+- [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨
@@ -123,6 +132,21 @@ A collection of Chakra UI-related awesomeness
 - [Amine Elbarry](https://elbarryamine.com/): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
 - [Vizima](https://www.vizima.in/): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+- [SURE Trust](https://suretrustforruralyouth.com/): Free e-Learning platform. Build with chakra UI and ReactJs.
+- [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management.
+- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
+- [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
+- [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
+- [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
+- [Supa Palette Website](https://supa-palette.com): Official website of Supa Palette plugin for Figma.
+- [CodeNanshu](https://codenanshu.in): Personal portfolio website built with Nextjs, advanced Techs and Chakra UI.
+- [Júlio Werner](https://juliowerner.com): Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
+- [itsrakesh - blog](https://blog.itsrakesh.co/): Blog website built with Chakra UI and NextJs.
+- [eduo Instrukcije](https://instrukcije.eduo.help/): Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
+- [Plan Harmony](https://planharmony.com): Collabortive trip planning.
+- [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
+- [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of  my CSS Skills.
+- [Vizima](https://www.vizima.in): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
 
 ## 📚️ Libraries
 
@@ -183,6 +207,7 @@ A collection of Chakra UI-related awesomeness
 - [How to use Chakra UI with Next.js and React](https://youtube.com/watch?v=ubB5l-HVPgY)
 - [Customise your theme and components](https://youtube.com/watch?v=1J8dUyeUWO4)
 - [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled](https://youtube.com/watch?v=QVnkGqEsbK0)
+- [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
 - [Chakra UI crash course](https://youtu.be/hJ873mLhmFQ)
 - [Chakra Shorts #1 - Dynamic Shadow Image](https://www.youtube.com/watch?v=HMTyQjASff4)
