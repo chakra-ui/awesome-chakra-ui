@@ -30,7 +30,7 @@ A collection of Chakra UI-related awesomeness
 
 ## 🔥 Projects
 
-- [Chakra UI Time Scroller](https://www.npmjs.com/package/chakra-ui-time-scroller): This is a clean time picker/scroller built for javascript and typescript with chakra-ui
+- [Chakra UI Time Scroller](https://www.npmjs.com/package/chakra-ui-time-scroller): This is a clean time picker/scroller built for javascript and typescript with chakra-ui.
 - [Chakra UI Pro](https://pro.chakra-ui.com): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
 - [Chakra Templates](https://chakra-templates.dev): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
@@ -69,12 +69,12 @@ A collection of Chakra UI-related awesomeness
 - [Pie Chart Creator](https://www.piechartcreator.site): Quickly create sophisticated Pie Charts!. Powered By Chakra UI and React JS.
 - [Schext](https://schext.com): A powerful text schedule tool, that allows your clients to set appointments without you.
 - [Life Pro Tips](https://lifeprotips.com/): Tips to improve your life. From the creator of /r/lifeprotips.
-- [MockZilla](https://mockzilla.com/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
+- [MockZilla](https://mockzilla.com/): MockZilla - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!
 - [Boring+Ordinary](https://boringordinary.com): A design and development agency based in Montreal. Powered by Chakra UI, Framer Motion, Next.js, and Sanity.
 - [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
-- [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥.
-- [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!.
+- [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
+- [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨
@@ -168,7 +168,7 @@ A collection of Chakra UI-related awesomeness
 - [Accessibility on-demand with Chakra-ui and focus-visible](https://medium.com/@keeganfamouss/accessibility-on-demand-with-chakra-ui-and-focus-visible-19413b1bc6f9)
 - [Build a Landing Page with Chakra UI](https://raptis.wtf/blog/build-a-landing-page-with-chakra-ui-part-1/)
 - [Customisations with Chakra UI](https://www.easyreact.com/articles/chakra-ui-customisations)
-- [Chakra UI and React-Hook-Form – How to Build Beautiful Forms](https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/)
+- [Chakra UI and React-Hook-Form - How to Build Beautiful Forms](https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/)
 - [Truncating Text using Chakra UI](https://dev.to/estheragbaje/how-to-truncate-text-using-chakra-ui-4mpj)
 - [How to Set Up Chakra UI with Next JS by creating a Hero component](https://creativedesignsguru.com/chakra-ui-next-js/)
 - [Choosing the right component library for your design system: MUI vs Chakra](https://engineering.udacity.com/choosing-the-right-component-library-for-your-design-system-mui-vs-chakra-45c4c949d150)
@@ -182,7 +182,7 @@ A collection of Chakra UI-related awesomeness
 - [Building an Absence Tracker with Blitz JS and Chakra UI (Series)](https://youtu.be/bJmFwle8Ax0)
 - [How to use Chakra UI with Next.js and React](https://youtube.com/watch?v=ubB5l-HVPgY)
 - [Customise your theme and components](https://youtube.com/watch?v=1J8dUyeUWO4)
-- [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled.](https://youtube.com/watch?v=QVnkGqEsbK0)
+- [Learn Chakra UI by building a Todo Application with Local Storage, Dark Mode enabled](https://youtube.com/watch?v=QVnkGqEsbK0)
 - [Design Workflow with Chakra UI and Figma](https://youtu.be/Gm7qHn9Y_Ro)
 - [Chakra UI crash course](https://youtu.be/hJ873mLhmFQ)
 - [Chakra Shorts #1 - Dynamic Shadow Image](https://www.youtube.com/watch?v=HMTyQjASff4)
