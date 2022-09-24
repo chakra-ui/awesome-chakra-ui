@@ -50,11 +50,9 @@ A collection of Chakra UI-related awesomeness
 - [thirdweb](https://thirdweb.com/): A web3 platform that offers contracts, intuitive SDKs, a dashboard and widgets for developers.
 - [Top.gg](https://top.gg/): The Best Discord Bots and Servers.
 - [Octoclairvoyant](https://octoclairvoyant.vercel.app/): A webapp to compare GitHub changelogs across multiple releases. Made with Next.js and Chakra UI.
-- [Roadster](https://r0adster.live/): Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra.
 - [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
 - [Saas UI](https://saas-ui.dev/): An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es/): A collaborative list of resources for developers.
-- [Roadster](https://r0adster.live): Website of Roadster - fresh and new discord bot. Made with Next.js and Chakra.
 - [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
 - [Saas UI](https://saas-ui.dev): An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es): A collaborative list of resources for developers.
@@ -134,7 +132,7 @@ A collection of Chakra UI-related awesomeness
 - [Vizima](https://www.vizima.in/): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
 - [SURE Trust](https://suretrustforruralyouth.com/): Free e-Learning platform. Build with chakra UI and ReactJs.
 - [inspektre](https://inspektre.io): SAAS Platform for Application Security Posture Management.
-- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel. 
+- [CeloPunk Auction](https://github.com/anhfactor/celopunk-auction): CeloPunk is a NFT marketplace on celo testnet chain. Made using Next.js, Chakra UI, MDX icon, and it's deployed on Vercel.
 - [Gio Gold](https://www.giogold.com/): Gio Gold is an e-commerce web app, built with Next.js & Chakra UI. Our goal is to make investing in gold easy, affordable, and profitable for our valued customers.
 - [Sharehouse](https://sharehouse.app): Australian Sharehouse/Housemate finder, built with Chakra UI, Next.js & Prisma 🏡💗
 - [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
