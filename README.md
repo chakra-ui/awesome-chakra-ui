@@ -33,8 +33,6 @@ A collection of Chakra UI-related awesomeness
 - [Chakra UI Time Scroller](https://www.npmjs.com/package/chakra-ui-time-scroller): This is a clean time picker/scroller built for javascript and typescript with chakra-ui.
 - [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
 - [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
-- [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
-- [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.com/): A set of accessible and reusable components that are commonly used in web applications.
 - [OnlySetups](https://github.com/wobsoriano/onlysetups): OnlyFans, but for pictures of desk setups.
 - [TwitterFOMO.dev](https://github.com/tomdohnal/twitter-fomo): Best WebDev Tweets.
@@ -53,9 +51,6 @@ A collection of Chakra UI-related awesomeness
 - [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
 - [Saas UI](https://saas-ui.dev/): An advanced component library build for SaaS products.
 - [Dev Resources](https://devresourc.es/): A collaborative list of resources for developers.
-- [MockRocket](https://mockrocket.io/): Show off your app with jaw-dropping 3D mockups and product videos, right in your browser.
-- [Saas UI](https://saas-ui.dev): An advanced component library build for SaaS products.
-- [Dev Resources](https://devresourc.es): A collaborative list of resources for developers.
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra): Trendiest Open Source Admin Template based on Chakra UI!
 - [Pesabooks](https://pesabooks.com/): A digital platform to save and invest together, with Crypto.
 - [Portion Monitor](https://portionmonitor.com/): Record Daily Portion Intake, Set Limits, and View Reports.
@@ -65,10 +60,6 @@ A collection of Chakra UI-related awesomeness
 - [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
 - [Public APIs](https://publicapis.sznm.dev/): Find public APIs for your next project.
 - [FeedHive](https://feedhive.io/): Social Media content creation platform.
-- [nextarter-chakra](https://nextarter-chakra.sznm.dev): battery packed template to initialize Next.js app with Chakra UI & Typescript setup.
-- [olamonde](https://olamonde.me): One link to rule them all. Easily place your links in a beautiful single page.
-- [spoker](https://spoker.sznm.dev/intro): Real-time multiparticipant scrum poker app. Estimate with your team.
-- [Public APIs](https://publicapis.sznm.dev): Find public APIs for your next project.
 
 ## 🌎️ Websites
 
