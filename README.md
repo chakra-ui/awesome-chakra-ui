@@ -126,7 +126,6 @@ A collection of Chakra UI-related awesomeness
 ## 🛠️ Tools
 
 - [Chakra Figma UI Kit](https://www.figma.com/community/file/971408767069651759): Chakra UI's official Figma components library.
-- [Chakra Play](https://chakra-play.tk/): An advanced online playground for Chakra UI.
 - [Themera](https://themera.vercel.app/): Create Chakra UI color schemes in seconds ⚡️
 - [OpenChakra](https://openchakra.app/): Full-featured visual editor and code generator for React using Chakra UI.
 - [Nextchakra-starter](https://github.com/sozonome/nextchakra-starter): template to initialize PWA ready Next.js app with Chakra UI & Typescript setup ✨
