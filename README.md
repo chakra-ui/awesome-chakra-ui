@@ -71,7 +71,6 @@ A collection of Chakra UI-related awesomeness
 - [Devkind](https://devkind.com.au/): A full-fledge web development agency based in Melbourne. Powered by Chakra UI, Framer Motion, Next.js and Strapi.
 - [Avana Wallet](https://www.avanawallet.com/): Solana blockchain non-custodial wallet that connects you to Web3 dapps, DeFi, GameFi and NFTs. Powered by Chakra UI and Next.js.
 - [Arkar's Website ](https://arkardev.space/):Arkar's personal website, Built with Chakra UI , GraphCMS, Next.js,
-- [MockMe](https://mockme.in/): MockME - Create Unlimited Free API Calls for your React/Vue.js/Angular Apps!
 - [WeWork4Days](https://www.wework4days.com/): A website for finding 4-day week jobs 🔥
 - [Rich Haines's Website](https://richardhaines.dev/)
 - [Daniel Wirtz's Personal site](https://github.com/wirtzdan/website): Personal website build with Chakra UI, NextJS and Airtable ✨
