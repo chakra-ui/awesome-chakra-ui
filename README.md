@@ -35,7 +35,6 @@ A collection of Chakra UI-related awesomeness
 - [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.com/): A set of accessible and reusable components that are commonly used in web applications.
 - [OnlySetups](https://github.com/wobsoriano/onlysetups): OnlyFans, but for pictures of desk setups.
-- [TwitterFOMO.dev](https://github.com/tomdohnal/twitter-fomo): Best WebDev Tweets.
 - [Dokz](https://github.com/remorses/dokz): Effortless documentation with Next.js and MDX.
 - [Opensource.builders](https://github.com/junaid33/opensource.builders): Opensource.builders is a website to find and request open-source alternatives to popular software you already use.
 - [Snappify](https://snappify.io/): A code snippet creator.
