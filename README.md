@@ -82,7 +82,6 @@ A collection of Chakra UI-related awesomeness
 - [Bloomberg Global Coal Countdown](https://bloombergcoalcountdown.com/): A Rich data vizualitation website built with Next.JS, Chakra UI, and Nivo as the go-to online resource to track the world’s progress towards a coal-free future, by [Zero One Group](https://github.com/zero-one-group).
 - [Klerye](https://www.klerye.com/): A platform to add and find Ghanaian Youtube and Twitch channels. Created using Next.js, Chakra-UI, Prisma, Railway's postgres, trpc and deployed on Vercel.
 - [June](https://june.so): An app that generates instant product analytics reports on top of Segment. Made using Next.js and a custom Chakra UI theme.
-- [Confused's Site](https://confused.studio/): Creative engineering studio of digital products and video games. Website powered by NextJS, Typescript, Next-SEO, Chakra UI and Amplify.
 - [TRIGO's Site](https://trigodev.com/): Company Website. We are a software development company specializing in business software. Our Website and all of our apps are powered by Chakra UI & co.
 - [Hari Kotha's Site](https://harikotha.netlify.app/): Personal portfolio website built with React.js, React-Router and Chakra UI.
 - [wattanx's Site](https://wattanx.dev/): Personal website of wattanx. Made using Next.js, Chakra UI.
