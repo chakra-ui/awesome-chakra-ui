@@ -104,6 +104,7 @@ A collection of Chakra UI-related awesomeness
 - [Amine Elbarry](https://elbarryamine.com): Personal portfolio website built using Chakra⚡UI, Nextjs, Typescript and Graphql 💖
 - [Yash Kapure](https://yashkapure.netlify.app/): Personal Portfolio website built using Chakra❤UI, ReactJS, TypeScript and some of my CSS Skills.
 - [Vizima](https://www.vizima.in): - Company Website. We are an Indian hospitality company. Our Website is powered by Chakra UI, NextJS & Typescript.
+- [Darren Dube's website](https://darrendube.com): Personal Economics and Data Sicence website built with 💖 using Chakra UI, GatsbyJS Graphql.
 
 ## 📚️ Libraries
 
