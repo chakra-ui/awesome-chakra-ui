@@ -61,6 +61,7 @@ A collection of Chakra UI-related awesomeness
 - [Public APIs](https://publicapis.sznm.dev/): Find public APIs for your next project.
 - [FeedHive](https://feedhive.io/): Social Media content creation platform.
 - [Volca](https://volca.io): A SaaS boilerplate project with Node.js and React
+- [SteamServerBrowser](https://www.steamserverbrowser.com/): A modern Steam game server browser, made with Next.js and Chakra UI.
 
 ## 🌎️ Websites
 
