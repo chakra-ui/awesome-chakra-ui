@@ -97,6 +97,7 @@ A collection of Chakra UI-related awesomeness
 - [Muhammad Ahmad's Site](https://mahmad.me): My personal portfolio website to show my skills, experience, and articles I published. This site built by using Next.js, Chakra Ui, Typescript and Dev.to api.
 - [Supa Palette Website](https://supa-palette.com): Official website of Supa Palette plugin for Figma.
 - [CodeNanshu](https://codenanshu.in): Personal portfolio website built with Nextjs, advanced Techs and Chakra UI.
+- [Bayu Wicaksono](https://bayuwicaksono.com/) Personal website built using Nextjs and Chakra UI
 - [Júlio Mühlbauer](https://juliomuhlbauer.com/) Personal portfolio built with Chakra UI, Nextjs and Typescript ⚡
 - [itsrakesh - blog](https://blog.itsrakesh.co/): Blog website built with Chakra UI and NextJs.
 - [eduo Instrukcije](https://instrukcije.eduo.help/): Platform for searching database of more than 6K questions and answers on school related questions for Croatian market. With over 200K+ monthly visits it is the biggest educational platform in Croatia.
